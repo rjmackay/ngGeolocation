@@ -19,7 +19,6 @@
     "karma-phantomjs-launcher": "~0.1.4"
   },
   "scripts": {
-    "postinstall": "./node_modules/.bin/bower install --dev",
     "test": "./node_modules/.bin/grunt test"
   }
 }
